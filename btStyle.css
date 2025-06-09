@@ -1,0 +1,23 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header{
+    background-color: #212f41;
+    width: 40rem;
+}
+
+p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+#card{
+    background-color: #212f41;
+    width: 10rem;
+}
+
+#cardBtn{
+        background-color: #2b3a4f;
+
+}
